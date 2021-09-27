@@ -1,2 +1,3 @@
 # Hello-world
-Repo to learn basics of git
+Repo to learn basics of git and branch
+
